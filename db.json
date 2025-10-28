@@ -21,11 +21,8 @@
     },
     {
       "id": 2,
-      "body": "some comment2",
+      "body": "Slaby",
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
