@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Makaron"
+    },
+    {
+      "id": 2,
+      "title": "Schabowy z ziemniakami"
+    },
+    {
+      "id": 3,
+      "title": "Pizza"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Wyborny!",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
