@@ -2,27 +2,30 @@
   "posts": [
     {
       "id": 1,
-      "title": "Makaron"
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "title": "Schabowy z ziemniakami"
+      "title": "Post 2"
     },
     {
       "id": 3,
-      "title": "Pizza"
+      "title": "Post 3"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "Wyborny!",
+      "body": "some comment1",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "Slaby",
+      "body": "some comment2",
       "postId": 1
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
